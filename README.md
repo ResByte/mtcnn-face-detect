@@ -18,6 +18,8 @@ month={Oct},}
 ```
 Part of this code is based on https://github.com/davidsandberg/facenet to load pre-trained MTCNN models.
 
+Pre-trained weights are also taken from  https://github.com/davidsandberg/facenet.
+
 To Run
 - clone repo
 - in `src/` , run `python webcam.py`

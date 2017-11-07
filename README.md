@@ -20,6 +20,12 @@ Part of this code is based on https://github.com/davidsandberg/facenet to load p
 
 Pre-trained weights are also taken from  https://github.com/davidsandberg/facenet.
 
-To Run
+
+### Dependencies
+- tensorflow 
+- opencv 
+- numpy 
+
+### Run
 - clone repo
 - in `src/` , run `python webcam.py`
